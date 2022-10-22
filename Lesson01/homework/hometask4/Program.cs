@@ -21,4 +21,3 @@ if (max < c)
 Console.Write("max = ");
 Console.WriteLine(max);
 
-
