@@ -1,5 +1,5 @@
-﻿int a = 5;
-int b = 7;
+﻿int a = 12;
+int b = 233;
 int max = a;
 int min = b;
 
